@@ -25,7 +25,7 @@
    ```
    terraform apply --auto-approve
    ```
-   
+
 **delete resource**
 ```
 terraform destroy --auto-approve
